@@ -3,7 +3,7 @@ layout: post
 title: Deep Learning with Topological Signatures
 subtitle: NIPS'17
 tag: publication
-image: /img/papers/nips17.png
+# image: /img/papers/nips17.png
 ---
 We propose an approach to learning with graph-structured data in the problem domain of graph
 classification. 
